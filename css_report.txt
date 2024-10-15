@@ -1,0 +1,6 @@
+You want to use CSS because is very useful at adding styles, color, typography even some small css art and animations with javascript even.
+
+22. Robby Leonardi looks so cool. He has an interactive resume part of his site. You use scroll reel or arrow keys to go through the levels and read up info about what he knows, lives and works, hobbys, etc. link below to his site:
+http://rleonardi.com/
+
+I am now interested in learning more by watching and reading further css art and animations concepts.
